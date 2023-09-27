@@ -1,0 +1,10 @@
+.cabeçalho{
+background-color: black; /*coloca cor de fundo */
+display: flex;
+font-size: 2em;            /*coloca tamanho de fonte */
+color:aliceblue;         /*coloca cor da fonte*/
+width: 100%;               /*coloca largura da janela*/
+height: 80px;             /*coloca altura do espaço do cabeçalho*/
+
+
+}
